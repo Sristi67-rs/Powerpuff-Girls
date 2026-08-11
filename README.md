@@ -63,8 +63,6 @@ User-adjustable settings including curfew toggle, auto-sync of mood detection, a
 
 ## 🚀 Getting Started
 
-## 🚀 Getting Started
-
 Follow these steps to clone and run this prototype locally on your computer:
 
 ### Prerequisites
@@ -74,7 +72,7 @@ Make sure you have [Node.js](https://nodejs.org) installed on your computer.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Sristi67-rs/Powerpuff-Girls.git
    ```
 
 2. **Navigate into the project folder:**

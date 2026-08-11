@@ -108,5 +108,3 @@ Once the server starts, open your browser and go to `http://localhost:5173` to v
 - ML-based mood inference beyond scroll heuristics
 - Push notifications for curfew and vault expirations
 - Native mobile app (iOS/Android)
-
-_Add your license here (e.g., MIT)._

@@ -107,11 +107,6 @@ Once the server starts, open your browser and go to `http://localhost:5173` to v
 - Real purchase-history integration (bank/card linking)
 - ML-based mood inference beyond scroll heuristics
 - Push notifications for curfew and vault expirations
-- Multi-buddy accountability groups
 - Native mobile app (iOS/Android)
-
----
-
-## 📄 License
 
 _Add your license here (e.g., MIT)._

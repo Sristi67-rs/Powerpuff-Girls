@@ -63,20 +63,36 @@ User-adjustable settings including curfew toggle, auto-sync of mood detection, a
 
 ## 🚀 Getting Started
 
-1. Clone the repo:
-   ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
-   ```
-2. Open `zenspend_standalone.html` directly in a browser, **or** serve it locally:
-   ```bash
-   npx serve .
-   ```
-3. Use the **"Try Demo"** button on the login screen to explore the app without creating an account.
+## 🚀 Getting Started
 
-No `npm install`, build step, or backend setup required — everything runs in the browser.
+Follow these steps to clone and run this prototype locally on your computer:
 
----
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org) installed on your computer.
+
+### Installation Steps
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com
+   ```
+
+2. **Navigate into the project folder:**
+   ```bash
+   cd powerpuff-pro-app
+   ```
+
+3. **Install the required dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Start the local development server:**
+   ```bash
+   npm run dev
+   ```
+
+Once the server starts, open your browser and go to `http://localhost:5173` to view the full-screen prototype locally.
 
 ## 📱 Walkthrough
 
